@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mut:home|Door43 (mut)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mut|d43-mut repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mut/archive/master.zip|d43-mut.zip]]
+
+**Recent Changes**
+{{changes>ns = mut}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mut|Ethnologue data]]
+
